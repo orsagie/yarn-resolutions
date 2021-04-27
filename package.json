@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "5.2.1",
+    "@rails/webpacker": "5.2.2",
     "@types/jest": "^26.0.13",
     "postcss-css-variables": "^0.17.0",
     "sass": "^1.26.10",

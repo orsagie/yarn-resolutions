@@ -4,7 +4,7 @@
     "@rails/webpacker": "5.2.1",
     "@types/jest": "^26.0.13",
     "postcss-css-variables": "^0.17.0",
-    "sass": "^1.26.10",
+    "sass": "^1.52.2",
     "url-loader": "^4.1.0",
     "webpack-merge": "^5.1.4"
   },
